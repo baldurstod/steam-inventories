@@ -1,0 +1,7 @@
+build/
+dist/
+node_modules
+var/
+vpk/
+config.json
+__debug_bin*
